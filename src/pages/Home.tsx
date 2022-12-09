@@ -78,11 +78,6 @@ export function Home() {
               {totalTasks}
             </span>
           </div>
-
-          <div className='flex items-center justify-center gap-2'>
-            <span className='text-theme-blue font-bold'>Concluidas</span>
-            <span className='text-gray-200 block w-[25px] h-[19px] flex items-center justify-center rounded-full bg-theme-gray-400'>0</span>
-          </div>
         </div>
       </section>
 
